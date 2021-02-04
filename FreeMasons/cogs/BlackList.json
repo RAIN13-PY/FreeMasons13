@@ -1,0 +1,21 @@
+{
+  "BlackListWords": [
+    {
+      "ID": 123,
+      "Words": [
+        "Nigger",
+        "nigger",
+        "gorgy",
+        "george",
+        "George",
+        "Jorge",
+        "niger",
+        "Nlgger",
+        "nigga",
+        "gogy",
+        "jorge",
+        "geroge"
+      ]
+    }
+  ]
+}
